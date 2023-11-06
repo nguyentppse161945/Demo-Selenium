@@ -4,8 +4,50 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="98443129-5925-4387-9bc7-60223d12cf41" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Demo Selenium/selenium-webdriver-java/src/test/java/BAITAP/testcase05.java" beforeDir="false" afterPath="$PROJECT_DIR$/Demo Selenium/selenium-webdriver-java/src/test/java/BAITAP/testcase05.java" afterDir="false" />
+    <list default="true" id="17afe225-df6f-419f-ab91-654361cd2fb5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/selenium-webdriver-java/src/test/java/POM/CartPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-webdriver-java/src/test/java/POM/CheckOutPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-webdriver-java/src/test/java/POM/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-webdriver-java/src/test/java/POM/RegisterPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-webdriver-java/src/test/java/POM/ShareWishListPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-webdriver-java/src/test/java/TESTCASE01/testcase1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-webdriver-java/src/test/java/TESTCASE02/testcase2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-webdriver-java/src/test/java/TESTCASE03/testcase03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-webdriver-java/src/test/java/TESTCASE04/testcase4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-webdriver-java/src/test/java/TESTCASE05/testcase05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-webdriver-java/src/test/java/TESTCASE06/testcase6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-webdriver-java/src/test/java/TESTCASE08/testcase08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-webdriver-java/src/test/java/TICKET/testticket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium-webdriver-java/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/selenium-webdriver-java/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium-webdriver-java/src/test/java/test/loginForm.java" beforeDir="false" afterPath="$PROJECT_DIR$/selenium-webdriver-java/src/test/java/test/loginForm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium-webdriver-java/target/test-classes/demo/DnDHandle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium-webdriver-java/target/test-classes/demo/DynamicContentHandle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium-webdriver-java/target/test-classes/demo/HandleCheckboxes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium-webdriver-java/target/test-classes/demo/HandleDropdown.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium-webdriver-java/target/test-classes/demo/IFrameHandle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium-webdriver-java/target/test-classes/demo/JSAlertHandle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium-webdriver-java/target/test-classes/demo/JSExecutor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium-webdriver-java/target/test-classes/demo/MouseHoverHandle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium-webdriver-java/target/test-classes/demo/MultipleWindowsHandle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium-webdriver-java/target/test-classes/demo/RightClickHandle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium-webdriver-java/target/test-classes/demo/UrlPageTitleHandle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium-webdriver-java/target/test-classes/demo/launchBrowser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium-webdriver-java/target/test-classes/demo/loginForm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium-webdriver-java/target/test-classes/driver/driverFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/selenium-webdriver-java/target/test-classes/driver/driverFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium-webdriver-java/target/test-classes/element/DnDHandle.class" beforeDir="false" afterPath="$PROJECT_DIR$/selenium-webdriver-java/target/test-classes/element/DnDHandle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium-webdriver-java/target/test-classes/element/ElementController.class" beforeDir="false" afterPath="$PROJECT_DIR$/selenium-webdriver-java/target/test-classes/element/ElementController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium-webdriver-java/target/test-classes/test/DynamicContentHandle.class" beforeDir="false" afterPath="$PROJECT_DIR$/selenium-webdriver-java/target/test-classes/test/DynamicContentHandle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium-webdriver-java/target/test-classes/test/HandleCheckboxes.class" beforeDir="false" afterPath="$PROJECT_DIR$/selenium-webdriver-java/target/test-classes/test/HandleCheckboxes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium-webdriver-java/target/test-classes/test/HandleDropdown.class" beforeDir="false" afterPath="$PROJECT_DIR$/selenium-webdriver-java/target/test-classes/test/HandleDropdown.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium-webdriver-java/target/test-classes/test/IFrameHandle.class" beforeDir="false" afterPath="$PROJECT_DIR$/selenium-webdriver-java/target/test-classes/test/IFrameHandle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium-webdriver-java/target/test-classes/test/JSAlertHandle.class" beforeDir="false" afterPath="$PROJECT_DIR$/selenium-webdriver-java/target/test-classes/test/JSAlertHandle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium-webdriver-java/target/test-classes/test/JSExecutor.class" beforeDir="false" afterPath="$PROJECT_DIR$/selenium-webdriver-java/target/test-classes/test/JSExecutor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium-webdriver-java/target/test-classes/test/LaunchBrowser.class" beforeDir="false" afterPath="$PROJECT_DIR$/selenium-webdriver-java/target/test-classes/test/LaunchBrowser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium-webdriver-java/target/test-classes/test/MouseHoverHandle.class" beforeDir="false" afterPath="$PROJECT_DIR$/selenium-webdriver-java/target/test-classes/test/MouseHoverHandle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium-webdriver-java/target/test-classes/test/MultipleWindowsHandle.class" beforeDir="false" afterPath="$PROJECT_DIR$/selenium-webdriver-java/target/test-classes/test/MultipleWindowsHandle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium-webdriver-java/target/test-classes/test/RightClickHandle.class" beforeDir="false" afterPath="$PROJECT_DIR$/selenium-webdriver-java/target/test-classes/test/RightClickHandle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium-webdriver-java/target/test-classes/test/UrlPageTitleHandle.class" beforeDir="false" afterPath="$PROJECT_DIR$/selenium-webdriver-java/target/test-classes/test/UrlPageTitleHandle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium-webdriver-java/target/test-classes/test/loginForm.class" beforeDir="false" afterPath="$PROJECT_DIR$/selenium-webdriver-java/target/test-classes/test/loginForm.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,72 +57,57 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Demo Selenium/selenium-webdriver-java" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/selenium-webdriver-java" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 1
+  &quot;associatedIndex&quot;: 7
 }</component>
-  <component name="ProjectId" id="2XSrr2hgcV9S4XbwqfnMDppC1Pi" />
+  <component name="ProjectId" id="2XHbhiMcbe72JZ4O4vukwx1XiI6" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/immor/Downloads/Demo Selenium (1)/Demo Selenium/selenium-webdriver-java/src/test/java",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager">
-    <configuration name="testcase01" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="selenium-java-demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BAITAP.TestCase01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="TestCase01" />
-      <option name="MAIN_CLASS_NAME" value="BAITAP.TestCase01.testcase01" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="TestNG.testcase01" />
-      </list>
-    </recent_temporary>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\immor\Downloads\Demo Selenium (1)\Demo Selenium\selenium-webdriver-java\src\test\java" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="98443129-5925-4387-9bc7-60223d12cf41" name="Changes" comment="" />
-      <created>1698633517787</created>
+      <changelist id="17afe225-df6f-419f-ab91-654361cd2fb5" name="Changes" comment="" />
+      <created>1698289073270</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1698633517787</updated>
-      <workItem from="1698633519483" duration="1230000" />
-      <workItem from="1698634794570" duration="184000" />
-      <workItem from="1698635001289" duration="2683000" />
-      <workItem from="1698637924402" duration="3485000" />
-      <workItem from="1698641859257" duration="179000" />
+      <updated>1698289073270</updated>
+      <workItem from="1699238496160" duration="6792000" />
+      <workItem from="1699279449354" duration="410000" />
+      <workItem from="1699279899527" duration="1418000" />
     </task>
     <servers />
   </component>
