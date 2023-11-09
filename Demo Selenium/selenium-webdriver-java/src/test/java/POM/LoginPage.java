@@ -12,6 +12,6 @@ public class LoginPage {
     public void loginAccount (String email, String password) {
         driver.findElement(By.xpath("//input[@id='email']")).sendKeys(email);
         driver.findElement(By.xpath("//input[@id='pass']")).sendKeys(password);
-        driver.findElement(By.xpath("//button[@id='send2']")).click();
+
     }
 }
